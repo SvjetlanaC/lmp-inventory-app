@@ -1,0 +1,39 @@
+.container {
+    margin: auto;
+    background-color: rgb(134, 92, 134);
+    border-radius: 5px;
+    color: white;
+    padding: 25px;
+    width: 50%;
+}
+
+.container input{
+    margin-bottom: 10px;
+}
+
+.form-group{
+    text-align: left;
+}
+
+.button{
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+img{
+    width: 20%;
+    height: auto;
+    padding-left: 20px;
+}
+
+.vertical-center{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}

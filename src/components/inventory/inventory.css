@@ -1,0 +1,23 @@
+.table{
+    margin: 20px ;
+    width: 95%;
+}
+
+.action{
+    margin: 20px;
+    width: 95%;
+}
+
+.action button{
+    color:  white;
+    background-color: rgb(134, 92, 134);
+}
+
+.action button:hover{
+    color:  black;
+    background-color: white;
+}
+
+.no-data-label{
+    color: white;
+}
